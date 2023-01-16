@@ -21,7 +21,7 @@ I'm a full stack developer...
 
 please check it out
 
-file:///C:/Users/Admin/Desktop/New%20folder%20(10)/final%20out/index.html
+https://wrapfr33kzz.github.io/wish/
 ## Feedback
 
 If you have any feedback, please reach out to us at akon994756@gmail.com
